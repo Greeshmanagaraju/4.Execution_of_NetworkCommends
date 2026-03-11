@@ -34,6 +34,7 @@ This commands includes
 server.py
 
 import socket
+
 dns_table = {
     "google.com": "142.250.190.78",
     "yahoo.com": "98.137.11.163",
